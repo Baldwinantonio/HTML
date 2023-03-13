@@ -33,14 +33,13 @@ Entregar per GitHub amb el Readme.
   
 
 
-Index.html parte 1 y 2:   eh puesto la parte del menu mas y el menu oculto 
-Galería.html: fotos de paisajes de diferentes partes del mundo
-Paisaje.html: aparece una imagen
+Mi trabajo es sobre la naturaleza.
+  
+-La naturaleza contribuye en gran medida a protegernos y sustentar nuestra vida diaria, lo cual a menudo no valoramos suficiente. Sin embargo, juega un papel esencial porque nos proporciona aire limpio y agua potable, ropa, alimentos y materias primas que utilizamos para protegernos.
   
   
   
-  
-  
+
   
   
   
